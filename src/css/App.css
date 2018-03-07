@@ -1,0 +1,23 @@
+.App {
+  font-family: 'Karla', sans-serif;
+  text-align: left;
+}
+
+.App-instructions {
+  font-size: 72px;
+  padding: 32px;
+}
+
+select {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px;
+  background: transparent;
+  border: none;
+  border-bottom: 5px solid black;
+  font-size: 72px;
+}
+
+select:hover {
+  border-bottom: 5px solid blue;
+  color: blue;
+}
